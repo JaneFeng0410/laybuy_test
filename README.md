@@ -2,11 +2,11 @@
 
 Setup
 
-1: cd <source folder>
+1: cd laybuy_test folder
 2: npm install
 
 Test
 
-3: npm run jest
+3: npm run test
 4: npm run cypress
 
